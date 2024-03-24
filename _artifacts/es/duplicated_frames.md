@@ -7,14 +7,14 @@ formats: [Film]
 lang: Español
 ---
 
-Duplicated frames may occur when the triggering of the camera is not correctly timed.
+Los fotogramas duplicados pueden producirse cuando el disparo de la cámara no está correctamente cronometrado.
 
-## Can it be fixed?
+## Tiene arreglo?
 
-Yes, delete one of the duplicated frames.
+Sí, eliminar uno de los fotogramas duplicados.
 
-## Example(s)
+## Ejemplo(s)
 
-Two errors in the same clip: missing frame followed by duplicated frame:
+Dos errores en el mismo clip: fotograma perdido seguido de fotograma duplicado:
 
 <img src="{{ site.baseurl }}/images/missing_duplicated.gif">
