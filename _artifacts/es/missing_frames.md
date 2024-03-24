@@ -6,16 +6,16 @@ tags: [Analog, Film]
 lang: Español
 ---
 
-Missing frames occur when the triggering of the scanner’s camera is not correctly timed. Often this is a software error, but it can also result when the hardware is not carefully designed.
+Los fotogramas faltantes se producen cuando el disparo de la cámara del escáner no está correctamente cronometrado. Con frecuencia se debe a un error de software, pero puede ocurrir también si el hardware no fue diseñado con cuidado.
 
-## Can it be fixed?
+## Tiene arreglo?
 
-No, if the frame is missing in the file, then only re-digitising that frame (or that section of the film) would allow to complete the file.
+Si el fotograma falta en el archivo, se debe volver a digitalizar ese fotograma (o esa sección de la película) para completar el archivo.
 
-The error itself should be fixed at the scanner level (hardware and/or software).
+El desperfecto en sí mismo debe solucionarse a nivel del escáner (hardware y/o software).
 
-## Example(s)
+## Ejemplo(s)
 
-Two errors in the same clip: missing frame followed by duplicated frame:
+Dos errores en el mismo clip: fotograma perdido seguido de fotograma duplicado:
 
 <img src="{{ site.baseurl }}/images/missing_duplicated.gif">
